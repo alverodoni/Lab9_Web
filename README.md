@@ -25,7 +25,9 @@ $is_logged_in = false; // Karena logika login di frontend, kita simulasikan ini.
 include 'modules/auth/login.php';
 
 // Sertakan file footer, yang berisi penutup </body> dan semua skrip JS
-```
+
 
 include 'views/footer.php';
 ?>
+```
+
